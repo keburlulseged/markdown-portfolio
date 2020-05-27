@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tiger wearing Budda Shirt](/avatars-000100081373-w7iqs6-t500x500.jpg)
