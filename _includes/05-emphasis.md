@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Primarily Identify as and *ENGINEER*__ <br>
+- _**Software** Enginner_ <br>
+- _**Social** Enginner_ <br>
+- _**Sound** Engineer_ <br>
