@@ -1,0 +1,17 @@
+- Web Development
+  - JavaScript
+  - HTML/CSS
+  - React
+  - Node.js
+  - Express
+- Marketing
+  - Copywriting
+  - Email
+  - SEO
+  - Product Promotion
+- Recording Arts
+  - Mixing
+  - Recording Vocals
+  - Production
+  - Songwriting
+  - Brand Design
