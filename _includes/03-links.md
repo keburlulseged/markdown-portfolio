@@ -1,1 +1,1 @@
-Check out my [GitHub](https://github.com/keburlulseged) Page!
+[GitHub](https://github.com/keburlulseged)
